@@ -1,0 +1,12 @@
+{
+  "name": "makeitevent-backend",
+  "version": "1.0.0",
+  "description": "API Rest para makeitevent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Henry Tene, Wilfredo Rujel, Francisco Moncada",
+  "license": "MIT"
+}
